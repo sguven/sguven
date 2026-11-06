@@ -1,6 +1,6 @@
 ## Hi, I'm Serhat Guven, FRM 👋
 
-Risk professional in New York. In my own time I build small, useful systems with AI: automated briefings, personal finance forecasting tools, everyday apps, learning programs, and a few things for family.
+Risk and audit professional in New York. In my own time I build small, useful systems with AI: automated briefings, personal finance forecasting tools, everyday apps, learning programs, and a few things for family.
 
 ### 👉 [See my full project portfolio → sguven.github.io](https://sguven.github.io)
 
