@@ -6,11 +6,11 @@ Risk and audit professional in New York. In my own time I build small, useful sy
 
 | Area | Projects |
 |---|---|
-| **Automation and publishing** | [Gündem — Daily News Briefs](https://github.com/sguven/bulten) · Weekly Cinema Bulletin · Claude Project of the Day |
+| **Automation and publishing** | [The Daily Agenda — News Briefs](https://sguven.github.io/bulten/) · Weekly Cinema Bulletin · Claude Project of the Day |
 | **Personal finance** | Investment Portfolio and Forecast App · Cash Flow Tracker (both offline, run locally) |
-| **Everyday apps** | KaloriLog · SporLog Pro · Movie Watchlist (iOS) |
-| **Learning** | [Film Theory Curriculum](https://github.com/sguven/film-teorisi) |
+| **Everyday apps** | CalorieLog · WorkoutLog Pro · Movie Watchlist (iOS) |
+| **Learning** | [Film Theory Curriculum](https://sguven.github.io/film-teorisi/) |
 | **Content** | [@cleaneverycorner](https://www.instagram.com/cleaneverycorner) · [@cellbycell1](https://www.instagram.com/cellbycell1) · [@TheDayInBrief](https://x.com/TheDayInBrief) |
-| **Family and heritage** | [İpek's Games](https://github.com/sguven/ipek-oyunlari) · [Köprüköy 3D](https://github.com/sguven/koprukoy-3d) |
+| **Family and heritage** | [İpek's Games](https://sguven.github.io/ipek-oyunlari/) · [Köprüköy 3D](https://sguven.github.io/koprukoy-3d/) |
 
 [LinkedIn](https://www.linkedin.com/in/serhatguven35/)
