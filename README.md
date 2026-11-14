@@ -1,6 +1,6 @@
-## Serhat Guven, FRM
+## Serhat Guven
 
-Risk and audit professional in New York (traded risk: market, counterparty and credit risk). In my own time I design and build small, useful systems with AI: briefings that research and publish themselves, private finance forecasting tools, everyday apps, learning programs and a few things for family.
+In my own time I design and build small, useful systems with AI: briefings that research and publish themselves, private finance forecasting tools, everyday apps, learning programs and a few things for family.
 
 **[→ Full project portfolio: sguven.github.io](https://sguven.github.io)** · [LinkedIn](https://www.linkedin.com/in/serhat35/)
 
